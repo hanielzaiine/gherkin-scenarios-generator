@@ -1,5 +1,5 @@
-# XYZ Usage Reference
-This reference manual describes correctly usage of XYZ for generate Test Scenarios in Gherkin from PlantUml activity diagrams. 
+# Usage Reference
+This reference manual describes correctly usage for generate Test Scenarios in Gherkin from PlantUml activity diagrams. 
 
 ## Writing References
 
